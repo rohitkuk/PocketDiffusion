@@ -33,7 +33,7 @@ Diffusion models have gained significant attention in the field of deep learning
 - [ ] Textual Inversion
 - [ ] Classifier Free Guidance
 - [ ] Image Inpainting 
-- [ ] Imapge Outpainting 
+- [ ] Image Outpainting 
 - [ ] Control Net eventually
 
 ### Acknowledgments
@@ -46,7 +46,13 @@ The implementation in Pocket Diffusion is inspired by the works of diffusion mod
 - https://github.com/lwb2099/stable_diffusion_pytorch
 - https://github.com/mindforge-ai/neat-stable-diffusion-pytorch
 - https://github.com/mspronesti/stable-diffusion
-#### Original Paper
-https://arxiv.org/pdf/2112.10752.pdf
+- #### Original Paper
+- https://arxiv.org/pdf/2112.10752.pdf
 
 Feel free to reach out to us with any questions or feedback. Happy exploring with Pocket Diffusion!
+
+
+
+### Disclaimer
+
+There are a lot .. commits please consider them as the continuition of the previous commit with tiny changes.
