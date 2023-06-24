@@ -26,8 +26,11 @@
 
 - [ ] Prompt to Image Generation
 - [ ] Image to Image Generation Based on Prompts
+- [ ] Textual Inversion
+- [ ] Classifier Free Guidance
 - [ ] Image Inpainting 
 - [ ] Imapge Outpainting 
+- [ ] Control Net eventually
 
 
 "...the **go to** statement should be abolished..." [[1]](#1).
