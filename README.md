@@ -29,3 +29,18 @@
 - [ ] Image Inpainting 
 - [ ] Imapge Outpainting 
 
+
+"...the **go to** statement should be abolished..." [[1]](#1).
+
+## References
+
+- https://github.com/kjsman/stable-diffusion-pytorch/tree/main
+- https://github.com/CompVis/latent-diffusion/tree/main
+- https://github.com/bes-dev/stable_diffusion_quantizer.pytorch
+- https://github.com/lwb2099/stable_diffusion_pytorch
+- https://github.com/mindforge-ai/neat-stable-diffusion-pytorch
+- https://github.com/mspronesti/stable-diffusion
+
+## Original Paper
+https://arxiv.org/pdf/2112.10752.pdf
+
