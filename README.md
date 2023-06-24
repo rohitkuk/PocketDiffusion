@@ -36,10 +36,6 @@ Diffusion models have gained significant attention in the field of deep learning
 - [ ] Imapge Outpainting 
 - [ ] Control Net eventually
 
-
-"...the **go to** statement should be abolished..." [[1]](#1).
-
-
 ### Acknowledgments
 
 The implementation in Pocket Diffusion is inspired by the works of diffusion models and various PyTorch-based deep learning projects. We acknowledge the valuable contributions of the open-source community in advancing the field of deep learning.
