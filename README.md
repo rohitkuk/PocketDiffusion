@@ -1,6 +1,10 @@
-# pocket_diffusion
+# Pocket Diffusion
 
 :pinched_fingers:	 Trying to implement some of the Stable Diffusion Concepts and Architectures
+
+Pocket Diffusion is a PyTorch-based implementation of stable diffusion-based models. This repository aims to provide a basic implementation of diffusion models using PyTorch, allowing researchers and developers to experiment with and explore the capabilities of diffusion-based modeling.
+
+Diffusion models have gained significant attention in the field of deep learning due to their ability to generate high-quality samples and perform tasks such as image synthesis, inpainting, and denoising. Pocket Diffusion offers a simple and accessible implementation to get started with diffusion models and understand their underlying principles.
 
 
 ### Todo 
@@ -35,7 +39,10 @@
 
 "...the **go to** statement should be abolished..." [[1]](#1).
 
-## References
+
+### Acknowledgments
+
+The implementation in Pocket Diffusion is inspired by the works of diffusion models and various PyTorch-based deep learning projects. We acknowledge the valuable contributions of the open-source community in advancing the field of deep learning.
 
 - https://github.com/kjsman/stable-diffusion-pytorch/tree/main
 - https://github.com/CompVis/latent-diffusion/tree/main
@@ -43,7 +50,7 @@
 - https://github.com/lwb2099/stable_diffusion_pytorch
 - https://github.com/mindforge-ai/neat-stable-diffusion-pytorch
 - https://github.com/mspronesti/stable-diffusion
-
-## Original Paper
+#### Original Paper
 https://arxiv.org/pdf/2112.10752.pdf
 
+Feel free to reach out to us with any questions or feedback. Happy exploring with Pocket Diffusion!
