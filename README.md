@@ -1,4 +1,4 @@
-# Pocket Diffusion
+# Pocket Diffusion 🚀🔬🧠
 
 :pinched_fingers: Trying to implement some of the Stable Diffusion Concepts and Architectures
 
